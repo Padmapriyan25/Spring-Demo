@@ -3,9 +3,9 @@ package com.jspiders.spring.dto;
 import lombok.Data;
 
 @Data
-public class Bike 
+public class Car 
 {
-	private int bikeId;
+	private int carId;
 	
 	private String brand;
 	
